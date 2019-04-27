@@ -1,2 +1,3 @@
-# Deep learning 
-# CNN 
+## DNN  
+## Computer vision CNN 
+## NLP RNN 
